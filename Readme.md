@@ -8,7 +8,7 @@ Project created entirely using the Bootstrap 3 framework, from its navigation me
 
 ## Demo
 
-
+https://top-casa-fina-arquitetura.vercel.app/
 
 ## Project Features
 
@@ -34,7 +34,7 @@ Project created entirely using the Bootstrap 3 framework, from its navigation me
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/victorhubarb/TopCasaFina-Arquitetura
 ```
 
 Install Bootstrap
